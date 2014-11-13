@@ -1,5 +1,5 @@
 {
-    "name": "denheck/faker-context",
+    "name": "adistoica/faker-context",
     "description": "Behat context for generating test data",
     "license": "MIT",
     "authors": [
